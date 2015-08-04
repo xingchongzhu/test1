@@ -1,0 +1,4 @@
+void print(int n)
+{
+    printf("\nthe num is:%d \n",n);
+}
